@@ -17,7 +17,7 @@ import win32gui, win32ui, win32con, win32api
 window_name = "C:\Windows\system32\cmd.exe" #name of the window in use
 win32console.SetConsoleTitle("Random 20w14infinite warps By: Besteres") #title of the command prompt of this app
 def main():
-    print("Make sure that your SERVER command prompt is NAMED 'C:\Windows\system32\cmd.exe'! or else it will not work!")
+    print("Make sure that your SERVER command prompt is NAMED 'C:\Windows\system32\cmd.exe'! or else it will not work! :D")
     print("And remember to not minimize this application or the command prompt... Have fun!")
     print(" ") #reminder of the limitations...
     sleep(1.3)
